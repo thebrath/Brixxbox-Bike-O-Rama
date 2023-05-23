@@ -1,0 +1,122 @@
+[
+   {
+      "itmCategoryId": 1,
+      "itmName": "Bergsteiger Montreal Mountainbike",
+      "itmDescription": "Ein robustes Mountainbike für alle Geländearten.",
+      "itmPrice": 459.99
+   },
+   {
+      "itmCategoryId": 1,
+      "itmName": "Ortler Van Dyck Stadtfahrrad",
+      "itmDescription": "Ein komfortables Stadtfahrrad für den täglichen Gebrauch.",
+      "itmPrice": 299.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "Shimano Ultegra Fahrradkette",
+      "itmDescription": "Langlebige Fahrradkette für den professionellen Einsatz.",
+      "itmPrice": 34.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "Schwalbe Marathon Plus Fahrradreifen",
+      "itmDescription": "Pannensicherer Fahrradreifen für lange Fahrten.",
+      "itmPrice": 29.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "Jahresinspektion Service",
+      "itmDescription": "Jährliche Inspektion und Wartung Ihres Fahrrads.",
+      "itmPrice": 69.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "Reifenwechsel Service",
+      "itmDescription": "Professioneller Reifenwechsel für Ihr Fahrrad.",
+      "itmPrice": 19.99
+   },
+   {
+      "itmCategoryId": 1,
+      "itmName": "Ghost Kato Hardtail Mountainbike",
+      "itmDescription": "Leichtes und wendiges Mountainbike für anspruchsvolle Trails.",
+      "itmPrice": 749.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "SRAM PowerLink Fahrradkette",
+      "itmDescription": "Zuverlässige und strapazierfähige Fahrradkette für alle Fahrradtypen.",
+      "itmPrice": 24.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "Continental Grand Prix 5000 Fahrradreifen",
+      "itmDescription": "Hochleistungsrennradreifen für maximale Geschwindigkeit und Kontrolle.",
+      "itmPrice": 49.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "Bike Fit Service",
+      "itmDescription": "Individuelle Anpassung Ihres Fahrrads für optimale Performance und Komfort.",
+      "itmPrice": 99.99
+   },
+   {
+      "itmCategoryId": 1,
+      "itmName": "Kalkhoff Endeavour 5.B Citybike",
+      "itmDescription": "Hochwertiges Citybike mit Elektroantrieb für müheloses Fahren.",
+      "itmPrice": 2299.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "Brooks Cambium Fahrradsattel",
+      "itmDescription": "Komfortabler und stilvoller Fahrradsattel für Langstrecken.",
+      "itmPrice": 69.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "SKS Bluemels Schutzblech Set",
+      "itmDescription": "Vollständiges Schutzblech-Set für trockene Fahrten bei nassem Wetter.",
+      "itmPrice": 24.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "E-Bike Akku Service",
+      "itmDescription": "Professionelle Wartung und Reparatur von E-Bike-Akkus.",
+      "itmPrice": 79.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "Fahrrad Reinigungs-Service",
+      "itmDescription": "Komplette Reinigung und Pflege Ihres Fahrrads.",
+      "itmPrice": 29.99
+   },
+   {
+      "itmCategoryId": 1,
+      "itmName": "Cannondale Trail 5 Mountainbike",
+      "itmDescription": "Agiles Mountainbike für anspruchsvolle Offroad-Fahrten.",
+      "itmPrice": 899.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "Magura MT5 Scheibenbremse",
+      "itmDescription": "Leistungsstarke Scheibenbremse für maximale Kontrolle und Sicherheit.",
+      "itmPrice": 119.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "Tubolito S-Tubo MTB Schlauch",
+      "itmDescription": "Ultraleichter und extrem robuster Fahrradschlauch für Mountainbikes.",
+      "itmPrice": 29.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "Fahrrad Montage Service",
+      "itmDescription": "Professionelle Montage und Einstellung Ihres neuen Fahrrads.",
+      "itmPrice": 49.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "Fahrrad Transport Service",
+      "itmDescription": "Sicherer und bequemer Transport Ihres Fahrrads zu jedem gewünschten Ort.",
+      "itmPrice": 39.99
+   }
+]
