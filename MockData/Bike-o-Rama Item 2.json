@@ -1,0 +1,62 @@
+[
+   {
+      "itmCategoryId": 1,
+      "itmName": "Trek Domane AL 2 Rennrad",
+      "itmDescription": "Leichtes und schnelles Rennrad für Einsteiger und Fortgeschrittene.",
+      "itmPrice": 799.99
+   },
+   {
+      "itmCategoryId": 1,
+      "itmName": "Riese & Müller Load 75 E-Cargo-Bike",
+      "itmDescription": "Geräumiges und kraftvolles E-Cargo-Bike für den Transport von Lasten.",
+      "itmPrice": 5999.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "Crankbrothers Stamp 1 Pedale",
+      "itmDescription": "Vielseitige Plattformpedale mit optimaler Fußpositionierung und Halt.",
+      "itmPrice": 49.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "Lezyne Sport Drive HV Minipumpe",
+      "itmDescription": "Kompakte und leichte Minipumpe für unterwegs.",
+      "itmPrice": 19.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "Pedal Montage Service",
+      "itmDescription": "Fachgerechte Montage und Einstellung Ihrer Fahrradpedale.",
+      "itmPrice": 14.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "Fahrrad Lackierungs-Service",
+      "itmDescription": "Professionelle Lackierung Ihres Fahrradrahmens in Ihrer Wunschfarbe.",
+      "itmPrice": 149.99
+   },
+   {
+      "itmCategoryId": 1,
+      "itmName": "Cube Aim SL Hardtail Mountainbike",
+      "itmDescription": "Zuverlässiges Mountainbike mit erstklassiger Ausstattung für den Trail-Einstieg.",
+      "itmPrice": 699.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "Bosch PowerPack 500 E-Bike Akku",
+      "itmDescription": "Leistungsstarker und langlebiger Ersatzakku für Bosch E-Bike Systeme.",
+      "itmPrice": 699.99
+   },
+   {
+      "itmCategoryId": 2,
+      "itmName": "RockShox Reverb Stealth Vario-Sattelstütze",
+      "itmDescription": "Hochwertige Vario-Sattelstütze für optimalen Fahrkomfort und Performance.",
+      "itmPrice": 349.99
+   },
+   {
+      "itmCategoryId": 3,
+      "itmName": "E-Bike Software Update Service",
+      "itmDescription": "Aktualisierung der Software Ihres E-Bikes für maximale Leistung und Sicherheit.",
+      "itmPrice": 29.99
+   }
+]
